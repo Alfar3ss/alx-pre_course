@@ -1,1 +1,0 @@
-seconf readme
